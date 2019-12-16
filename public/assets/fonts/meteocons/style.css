@@ -1,0 +1,177 @@
+@font-face {
+  font-family: 'meteocons';
+  src:
+    url('./fonts/meteocons.ttf?kx31oc') format('truetype'),
+    url('./fonts/meteocons.woff?kx31oc') format('woff'),
+    url('./fonts/meteocons.svg?kx31oc#meteocons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.meteocons {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'meteocons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#fuse-navbar.list-item-text 
+{
+  padding-left: 40px;
+}
+
+#fuse-navbar.MuiListItemText-root-1133:first-child {
+  padding-left: 16px;
+}
+/* 
+#fuse-navbar ul>a {
+  padding-left: 98px;
+} */
+
+
+/* #fuse-navbar .list-item-text.list-item 
+{
+  padding-left: 40px;
+} */
+
+/* #fuse-navbar .navigation 
+{
+  padding-right: 39px;
+} */
+
+/* .navigation ul {
+  padding-left: 58px;
+
+} */
+
+
+
+.pl-24 {
+  padding-left: 2.4rem;
+  padding-right: 4.4rem;
+}
+
+/* .navigation a.list-item  {
+  padding-left: 40px;
+} */
+
+
+
+/* .MuiPaper-root-327.MuiPaper-elevation24-353.MuiPaper-rounded-328.MuiDialog-paper-51.SettingsPanel-dialogPaper-8.MuiDialog-paperScrollPaper-52.MuiDialog-paperWidthSm-55 {
+  position: absolute;
+  left: 0px;
+}
+button#fuse-settings {
+  position: relative;
+  margin-right: -50px;
+}  */
+
+ /* button#fuse-settings {
+  position: absolute;
+  left: 0px;
+} 
+
+.MuiPaper-root-487.MuiPaper-elevation24-513.MuiPaper-rounded-488.MuiDialog-paper-161.SettingsPanel-dialogPaper-267.MuiDialog-paperScrollPaper-162.MuiDialog-paperWidthSm-165 {
+  position: relative;
+  right: 500px;
+}  */
+
+/* #fuse-navbar.Connect-NavbarWrapperLayout1--left-9{
+
+}
+
+#fuse-navbar.Connect-NavbarWrapperLayout1--right-10{
+  
+  } */
+
+  :dir(ltr) {
+    background-color: red;
+  }
+
+  .flex.flex-1.items-center.justify-center {
+    direction: rtl;
+}
+  /* .inner-scroll legend{
+  text-align: right;
+}
+.inner-scroll.MuiInputLabel-formControl-1816{
+
+right: 20px;
+
+}
+
+.inner-scroll.MuiInputLabel-outlined-2301.MuiInputLabel-shrink-2298 {
+  transform: translate(14px, -6px) scale(0.75);
+  position: absolute;
+  top: 0;
+  right: -223px;
+  text-align: right;
+  width: 100%;
+} */
+/* 
+.flex.flex-auto.flex-col.container{
+ direction: rtl
+} */
+
+
+
+
+  /* .inner-scroll label{ 
+    right: 40px;
+    
+    } */
+    .MuiPrivateNotchedOutline-legend-1269 {
+      padding: 0;
+      text-align: right;
+
+    }
+
+    /* .MuiInputLabel-formControl {
+      top: 0;
+      right: 40px;
+    
+    } */
+    .PrivateNotchedOutline-legend-95 {
+      padding: 0;
+      text-align: right;
+    
+    }
+   
+    
+    .MuiInputLabel-outlined {
+      background: #fff;
+    }
+    
+    .MuiInputLabel-outlined.MuiInputLabel-shrink{
+      
+      transform:translate(20px, -6px)scale(0.75);
+      }
+    
+  /* .MuiInputLabel-formControl-1269{right: 0px;} */
+  /* .MuiInputLabel-formControl-1432{right: 0px !important;} */
+
+  .MuiTablePagination-select-593 {
+    padding-left: 8px;
+    padding-right: 21px !important;
+}
+
+
+

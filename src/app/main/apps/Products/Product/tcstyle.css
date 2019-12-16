@@ -1,0 +1,220 @@
+.block_ {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 12pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center
+    }
+.block_1 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 12pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    -text-indent: 36pt
+    }
+.block_2 {
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 12pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.block_3 {
+    display: list-item;
+    line-height: 1.2;
+    margin-bottom: 12pt;
+    -margin-left: 36pt;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.block_4 {
+    display: table-row;
+    line-height: 1.2;
+    margin-bottom: 12pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.block_5 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 1.15;
+    margin-bottom: 12pt;
+    margin-left: 36pt;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.block_6 {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.15;
+    margin-bottom: 12pt;
+    margin-left: 36pt;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.block_7 {
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 12pt;
+    margin-left: 36pt;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.block_8 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 12pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center
+    }
+.bullet_ {
+    display: table-cell;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre2 {
+    display: table;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 36pt;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre3 {
+    line-height: 1.2;
+    white-space: pre-wrap
+    }
+.calibre4 {
+    display: table;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 63pt;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre5 {
+    display: table-cell;
+    line-height: 1.2
+    }
+.list_ {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.tab {
+    line-height: 1.2;
+    white-space: pre
+    }
+.text_ {
+    font-size: 1.33333em;
+    line-height: 1.2
+    }
+.text_1 {
+    font-size: 1.5em;
+    line-height: 1.2
+    }
+.text_2 {
+    background-color: yellow;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2;
+    color:black
+    }
+.text_3 {
+    background-color: yellow;
+    line-height: 1.2;
+    color: black
+    }
+.text_4 {
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+

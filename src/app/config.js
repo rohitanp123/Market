@@ -1,0 +1,1 @@
+export const serviceApiUrl = process.env.REACT_APP_SERVICE_URL;

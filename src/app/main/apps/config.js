@@ -1,0 +1,1 @@
+export const buyersiteurl = process.env.REACT_APP_BUYER_URL;
